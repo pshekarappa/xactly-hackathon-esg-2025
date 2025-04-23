@@ -1,0 +1,7 @@
+fastapi==0.103.1
+uvicorn[standard]==0.23.2
+python-multipart==0.0.6
+pydantic==2.3.0
+PyMuPDF==1.22.5
+sentence-transformers==2.2.2
+chromadb==0.4.13
